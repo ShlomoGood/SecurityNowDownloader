@@ -4,7 +4,7 @@
 #Prints after successful download of each episode.
 #Tracks and prints amount of time to download all episodes
 #Prints amount of time to download past "five" episodes
-#visit grc.com/SN for more information about the podcast
+#Visit grc.com/SN for more information about the podcast
 
 #provides web access
 import urllib.request
