@@ -54,7 +54,7 @@ def time_convert(time):
         
    
 #Main
-end = 605 #Latest episode
+end = 647 #Latest episode
 action = input("Which quality do you want? (h = high quality,l = low quality): ")
 begin = input("Which episode do you want to start from: ")
 begin = int(begin)
